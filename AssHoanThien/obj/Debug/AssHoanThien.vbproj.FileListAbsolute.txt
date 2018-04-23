@@ -1,0 +1,8 @@
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\bin\AssHoanThien.dll
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\bin\AssHoanThien.pdb
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\bin\AssHoanThien.xml
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\obj\Debug\AssHoanThien.Resources.resources
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\obj\Debug\AssHoanThien.vbproj.GenerateResource.Cache
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\obj\Debug\AssHoanThien.dll
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\obj\Debug\AssHoanThien.xml
+C:\Users\Mickay\Desktop\ASSHoanThien_namdtph04737\chay\trunk\AssHoanThien\obj\Debug\AssHoanThien.pdb
