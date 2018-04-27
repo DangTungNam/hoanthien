@@ -1,8 +1,8 @@
-@charset "utf-8";
-/* CSS Document */
+﻿
 body{
 	margin:0px;
 	padding:0px;
+    background:red;
 }
 .container>header{
 	background:black;
@@ -225,6 +225,7 @@ article{
 	float:right;
 	margin: 18px 0px 30px 20px;
 	text-align:center;
+    background:#CCC;
 }
 .col{
 	width:33%;
