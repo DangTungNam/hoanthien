@@ -11,6 +11,7 @@
             <asp:BoundField DataField="Name" HeaderText="Name" SortExpression="Name" />
             <asp:BoundField DataField="Partner_category_id" HeaderText="Partner_category_id" SortExpression="Partner_category_id" />
         </Columns>
+            <RowStyle ForeColor="#66CCFF" />
             </asp:GridView>
             <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT * FROM [Product_category]" ConflictDetection="CompareAllValues" DeleteCommand="DELETE FROM [Product_category] WHERE [Product_category_id] = @original_Product_category_id AND (([Name] = @original_Name) OR ([Name] IS NULL AND @original_Name IS NULL)) AND (([Partner_category_id] = @original_Partner_category_id) OR ([Partner_category_id] IS NULL AND @original_Partner_category_id IS NULL))" InsertCommand="INSERT INTO [Product_category] ([Product_category_id], [Name], [Partner_category_id]) VALUES (@Product_category_id, @Name, @Partner_category_id)" OldValuesParameterFormatString="original_{0}" UpdateCommand="UPDATE [Product_category] SET [Name] = @Name, [Partner_category_id] = @Partner_category_id WHERE [Product_category_id] = @original_Product_category_id AND (([Name] = @original_Name) OR ([Name] IS NULL AND @original_Name IS NULL)) AND (([Partner_category_id] = @original_Partner_category_id) OR ([Partner_category_id] IS NULL AND @original_Partner_category_id IS NULL))">
                 <DeleteParameters>
